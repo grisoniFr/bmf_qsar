@@ -1,35 +1,40 @@
 ## Welcome to the bioaccumulation data repository 
 
-This repository contains the files 
+This repository contains data on the bioaccumulation patterns in fish for 168 chemicals.
+It contains annotations on experimental/predicted octanol-water partitioning coefficient (logP), experimental/predicted bioconcentration factor (BCF) and experimental laboratory-based biomagnification factor (BMF). 
 
 ### Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The data collected in this repository were manually curated, as follows:
+* **KOW**
+* **BCF**
+* **BMF**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+For more details see [Grisoni et al., 2018, Chemosphere](https://guides.github.com/features/mastering-markdown/).
 
-- Bulleted
-- List
+## How to cite
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Authors
 
-[Link](url) and ![Image](src)
-```
+* **Francesca Grisoni** (https://github.com/FrancescaGrisoni)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Contributors to the project:
+* Francesca Grisoni, University of Milano-Bicocca, Milano 
+* Dr. Viviana Consonni, University of Milano-Bicocca, Milano
+* Prof. Marco Vighi, IMDEA Water, Madrid
 
-### Jekyll Themes
+See also the list of [contributors](https://github.com/FrancescaGrisoni/whales_descriptors/contributors) who participated in this project.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrancescaGrisoni/bioapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+See the [LICENSE.md](LICENSE.md) file for additional details. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the repository? 
+Contact us and and we’ll help you sort it out.
+
+* Francesca Grisoni (francesca.grisoni@unimib.it), University of Milano-Bicocca, Dept. of Earth and Environmental Sciences, Milano, Italy
