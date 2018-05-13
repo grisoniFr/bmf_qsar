@@ -15,6 +15,10 @@ For more details see [Grisoni et al., 2018, Chemosphere](https://guides.github.c
 
 ## How to cite
 
+The dataset is provided for free and can be used if proper reference is given to the authors. 
+Please, cite as:
+
+* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
 
 ## Authors
 
