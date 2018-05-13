@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the bioaccumulation data repository 
 
-You can use the [editor on GitHub](https://github.com/FrancescaGrisoni/bioapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the files 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
