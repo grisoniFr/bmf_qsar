@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: [BIOMAP]
 description: [Biomagnification factor Prediction project]
-show_downloads: [false"]
+show_downloads: false
 plugins:
    - jekyll-mentions
    - jemoji
