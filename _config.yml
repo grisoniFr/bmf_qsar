@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 title: [BIOMAP]
 description: [Biomagnification and Accumulation Prediction project]
-show_downloads: ["true"]
+show_downloads: [false"]
