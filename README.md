@@ -1,7 +1,12 @@
-## Welcome to the bioaccumulation data repository 
+## Welcome to the BIOMAP webbpage
 
-This repository contains data on the bioaccumulation patterns in fish for 168 chemicals.
-It contains annotations on experimental/predicted octanol-water partitioning coefficient (logP), experimental/predicted bioconcentration factor (BCF) and experimental laboratory-based biomagnification factor (BMF). 
+This repository contains data related to the BIOMAP project.
+It contains annotations on several experimental properties, as well as on scientific publications related to the prediction of bioaccumulation in aquatic environment.
+
+### The project
+
+The BIOMAP project started in 2013. It aims to develop *in silico* machine learning methods to predict the bioaccumulation in aquatic environment, to increase the mechanistic understanding and to reduce animal testing. 
+
 
 ### Information
 
@@ -22,7 +27,7 @@ Please, cite as:
 
 ## Authors
 
-* **Francesca Grisoni** (https://github.com/FrancescaGrisoni)
+* **Francesca Grisoni** (https://github.com/grisonifr), Principal Investigator
 
 Contributors to the project:
 * Francesca Grisoni, University of Milano-Bicocca, Milano 
