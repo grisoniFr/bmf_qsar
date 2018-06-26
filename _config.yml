@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+layout: splash
 
 title: [BIOMAP]
 description: [Biomagnification factor Prediction project]
@@ -11,9 +12,5 @@ plugins:
    - jekyll-feed
 
 picture:
-  source: "images/logo"
+  source: "images/logo.png"
   markup: "picture"
-  
- header:
-  overlay_image: /images/logo.png
-  caption: "Photo credit"
