@@ -9,3 +9,7 @@ plugins:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
+
+picture:
+  source: "images/logo"
+  markup: "picture"
