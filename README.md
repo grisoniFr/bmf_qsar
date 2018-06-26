@@ -1,11 +1,9 @@
+# BIOMAP (Biomagnification Factor prediction)
+
 ## Welcome to the BIOMAP webbpage
 
 This repository contains data related to the BIOMAP project.
-It contains annotations on several experimental properties, as well as on scientific publications related to the prediction of bioaccumulation in aquatic environment.
-
-### The project
-
-The BIOMAP project started in 2013. It aims to develop *in silico* machine learning methods to predict the bioaccumulation in aquatic environment, to increase the mechanistic understanding and to reduce animal testing. 
+The project aims to develop *in silico* machine learning methods to predict the bioaccumulation in aquatic organisms through dietary routes, to increase the mechanistic understanding and to reduce animal testing. 
 
 
 ### Information
