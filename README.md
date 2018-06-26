@@ -9,11 +9,9 @@ The project aims to develop *in silico* machine learning methods to predict the 
 
 ### Information
 
-The data collected in this repository were manually curated, as follows:
-* **KOW**
-* **BCF**
-* **BMF**
-
+This repository contains two types of material
+* **logBMF dataset** 
+* **BIOMAP software**
 
 For more details see [Grisoni et al., 2018, Chemosphere](https://guides.github.com/features/mastering-markdown/).
 
@@ -23,15 +21,22 @@ The dataset is provided for free and can be used if proper reference is given to
 Please, cite as:
 
 * F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+
+Please, cite the software as:
+* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+
+
 
 ## Authors
 
 * **Francesca Grisoni** (https://github.com/grisonifr), Principal Investigator
 
 Contributors to the project:
-* Francesca Grisoni, University of Milano-Bicocca, Milano 
-* Dr. Viviana Consonni, University of Milano-Bicocca, Milano
-* Prof. Marco Vighi, IMDEA Water, Madrid
+* Francesca Grisoni, University of Milano-Bicocca, Milano, Italy 
+* Dr. Viviana Consonni, University of Milano-Bicocca, Milano, Italy
+* Prof. Marco Vighi, IMDEA Water, Madrid, Spain
+* Dr. Andrea Mauri, Alvascience srl, Lecco, Italy
 
 ## License
 
