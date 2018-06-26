@@ -1,7 +1,7 @@
 # BIOMAP 
 *Biomagnification Factor prediction*
 
-## Welcome to the BIOMAP webbpage
+## Welcome to the BIOMAP webpage
 
 This repository contains data related to the BIOMAP project.
 The project aims to develop *in silico* machine learning methods to predict the bioaccumulation in aquatic organisms through dietary routes, to increase the mechanistic understanding and to reduce animal testing. 
@@ -9,7 +9,7 @@ The project aims to develop *in silico* machine learning methods to predict the 
 
 ### Information
 
-This repository contains two types of material
+From this webpage, you can have access to two types of material: 
 * **logBMF dataset** 
 * **BIOMAP software**
 
@@ -23,10 +23,11 @@ Please, cite as:
 * F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
 * F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
 
-Please, cite the software as:
+The BIOMAP software is provided for free and can be used if proper reference is given to the authors. 
+Please, cite it as:
 * F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
 
-
+For additional information on the licensing, see below. 
 
 ## Authors
 
