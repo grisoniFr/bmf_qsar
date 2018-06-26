@@ -13,3 +13,7 @@ plugins:
 picture:
   source: "images/logo"
   markup: "picture"
+  
+ header:
+  overlay_image: /images/logo.png
+  caption: "Photo credit"
