@@ -38,7 +38,7 @@ See also the list of [contributors](https://github.com/FrancescaGrisoni/whales_d
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-See the [LICENSE.md](LICENSE.md) file for additional details. 
+For the BIOMAP software, see the [LICENSE.md](https://github.com/grisoniFr/biomap/blob/master/LICENSE.md) file for additional details. 
 
 ### Support or Contact
 
