@@ -1,5 +1,5 @@
 # BIOMAP 
-### (Biomagnification Factor prediction)
+*Biomagnification Factor prediction*
 
 ## Welcome to the BIOMAP webbpage
 
