@@ -1,31 +1,29 @@
-# BIOMAP 
+# BMF_QSAR
 *Biomagnification Factor prediction*
 
-## Welcome to the BIOMAP webpage
+## Welcome!
 
-This repository contains data related to the BIOMAP project.
-The project aims to develop *in silico* machine learning methods to predict the bioaccumulation in aquatic organisms through dietary routes, to increase the mechanistic understanding and to reduce animal testing. 
-
+This repository contains data related to the prediction of the Biomagnification Factor (BMF) of organic chemicals in fish by Quantitative Structure-Activity Relationship (QSAR) methods.
 
 ### Information
 
 From this webpage, you can have access to two types of material: 
 * **logBMF dataset** 
-* **BIOMAP software**
+* **BMF_QSAR software**
 
-For more details see [Grisoni et al., 2018, Chemosphere](https://guides.github.com/features/mastering-markdown/).
+For more details see [Grisoni et al., 2018, Chemosphere]([link here]).
 
 ## How to cite
 
 The dataset is provided for free and can be used if proper reference is given to the authors. 
 Please, cite as:
 
-* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
-* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*, 208, 273-284.
+* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
 
 The BIOMAP software is provided for free and can be used if proper reference is given to the authors. 
 Please, cite it as:
-* F. Grisoni, V.Consonni, A. Mauri, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*
+* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
 
 For additional information on the licensing, see below. 
 
@@ -37,6 +35,8 @@ Contributors to the project:
 * Francesca Grisoni, University of Milano-Bicocca, Milano, Italy 
 * Dr. Viviana Consonni, University of Milano-Bicocca, Milano, Italy
 * Prof. Marco Vighi, IMDEA Water, Madrid, Spain
+
+Model implementation:
 * Dr. Andrea Mauri, Alvascience srl, Lecco, Italy
 
 ## License
