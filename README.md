@@ -8,8 +8,8 @@ This repository contains data related to the prediction of the Biomagnification 
 ### Information
 
 From this webpage, you can have access to two types of material: 
-* **logBMF dataset** 
-* **BMF_QSAR software**
+* **logBMF dataset**: containing BMF values and molecular descriptors, available [here]. 
+* **BMF_QSAR software**: to apply the models described in Grisoni et al., 2018b.
 
 For more details see [Grisoni et al., 2018, Chemosphere]([link here]).
 
@@ -18,8 +18,8 @@ For more details see [Grisoni et al., 2018, Chemosphere]([link here]).
 The dataset is provided for free and can be used if proper reference is given to the authors. 
 Please, cite as:
 
-* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*, 208, 273-284.
-* F. Grisoni, V.Consonni, M.Vighi (2018). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
+* F. Grisoni, V.Consonni, M.Vighi (2018a). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*, 208, 273-284.
+* F. Grisoni, V.Consonni, M.Vighi (2018b). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
 
 The BIOMAP software is provided for free and can be used if proper reference is given to the authors. 
 Please, cite it as:
