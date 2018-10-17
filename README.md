@@ -36,8 +36,9 @@ Contributors to the project:
 * Dr. Viviana Consonni, University of Milano-Bicocca, Milano, Italy
 * Prof. Marco Vighi, IMDEA Water, Madrid, Spain
 
-Model implementation:
-* Dr. Andrea Mauri, Alvascience srl, Lecco, Italy
+## Acknowledgements
+
+FG thanks Dr. Andrea Mauri (Alvascience srl, Lecco, Italy) for the implementation of the BMF-QSAR model.
 
 ## License
 
