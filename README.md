@@ -37,7 +37,7 @@ Contributors to the project:
 * Dr. Viviana Consonni, University of Milano-Bicocca, Milano, Italy
 * Prof. Marco Vighi, IMDEA Water, Madrid, Spain
 
-## BMF software author
+BMFpred software author:
 FG thanks Dr. Andrea Mauri (Alvascience srl, Lecco, Italy) for the implementation of the freely-available BMFpred model.
 
 ## Dataset License
