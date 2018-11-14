@@ -24,8 +24,9 @@ Please, cite as:
 * F. Grisoni, V.Consonni, M.Vighi (2018b). Acceptable-by-design QSARs to predict the dietary biomagnification of organic chemicals in fish, *Integrated Environmental Assessment and Management*, just accepted.
 
 The BMFpred software is provided for free for non-commercial usage by Alvascience srl. Please, cite it as:
-* F. Grisoni, V.Consonni, M.Vighi (2018b). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
-For additional information on the licensing, see below. 
+* F. Grisoni, V.Consonni, M.Vighi (2018b). Acceptable-by-design QSARs to predict the dietary biomagnification of organic chemicals in fish, *Integrated Environmental Assessment and Management*, just accepted.
+* Alvascience Srl, BMFpred (BioMagnification Factor Prediction software), 2018, http://www.alvascience.com
+
 
 ## Authors
 
