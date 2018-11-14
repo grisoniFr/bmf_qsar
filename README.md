@@ -3,7 +3,8 @@
 
 ## Welcome!
 
-This repository contains data related to the prediction of the Biomagnification Factor (BMF) of organic chemicals in fish by Quantitative Structure-Activity Relationship (QSAR) methods.
+This repository contains material for the prediction of the Biomagnification Factor (BMF) of organic chemicals in fish by Quantitative Structure-Activity Relationship (QSAR) methods.
+
 Reference paper: Grisoni, F., Consonni, V., Vighi, M. (2018): "Acceptable-by-design QSARs to predict the dietary biomagnification of organic chemicals in fish", Integrated Environmental Assessment and Management (IEAM), just accepted.
 
 ### Information
