@@ -5,7 +5,7 @@
 
 This repository contains material for the prediction of the Biomagnification Factor (BMF) of organic chemicals in fish by Quantitative Structure-Activity Relationship (QSAR) methods.
 
-Reference paper: Grisoni, F., Consonni, V., Vighi, M. (2018): "Acceptable-by-design QSARs to predict the dietary biomagnification of organic chemicals in fish", Integrated Environmental Assessment and Management (IEAM), just accepted.
+Reference paper: Grisoni, F., Consonni, V., Vighi, M. (2018): "Acceptable-by-design QSARs to predict the dietary biomagnification of organic chemicals in fish", Integrated Environmental Assessment and Management" (IEAM), just accepted.
 
 ### Information
 
@@ -21,7 +21,7 @@ The dataset is provided for free and can be used if proper reference is given to
 Please, cite as:
 
 * F. Grisoni, V.Consonni, M.Vighi (2018a). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*, 208, 273-284.
-* F. Grisoni, V.Consonni, M.Vighi (2018b). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, just accepted.
+* F. Grisoni, V.Consonni, M.Vighi (2018b). Acceptable-by-design QSARs to predict the dietary biomagnification of organic chemicals in fish, *Integrated Environmental Assessment and Management*, just accepted.
 
 The BMFpred software is provided for free by Alvascience srl. Please, cite it as:
 * F. Grisoni, V.Consonni, M.Vighi (2018b). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
