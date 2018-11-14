@@ -23,8 +23,7 @@ Please, cite as:
 * F. Grisoni, V.Consonni, M.Vighi (2018a). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Chemosphere*, 208, 273-284.
 * F. Grisoni, V.Consonni, M.Vighi (2018b). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, just accepted.
 
-The BMFpred software is provided for free by Alvascience srl and it can be used if proper reference is given to the authors. 
-Please, cite it as:
+The BMFpred software is provided for free by Alvascience srl. Please, cite it as:
 * F. Grisoni, V.Consonni, M.Vighi (2018b). Detecting the bioaccumulation patterns of chemicals through data-driven approaches, *Integrated Environmental Assessment and Management*, under review.
 For additional information on the licensing, see below. 
 
