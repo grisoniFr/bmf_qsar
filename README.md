@@ -38,7 +38,7 @@ Contributors to the project:
 * Prof. Marco Vighi, IMDEA Water, Madrid, Spain
 
 BMFpred software author:
-* Dr. Andrea Mauri ([Alvascience srl](http://www.alvascience.com)): implementation of the freely-available BMFpred model.
+* Dr. Andrea Mauri ([Alvascience srl](http://www.alvascience.com)): implementation of the BMFpred software.
 
 ## Dataset License
 
