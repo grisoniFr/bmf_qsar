@@ -10,7 +10,7 @@ Reference paper: Grisoni, F., Consonni, V., Vighi, M. (2018): "Acceptable-by-des
 ### Information
 
 From this webpage, you can have access to two types of material: 
-* **logBMF dataset**: containing experimental BMF values, SMILES strings and computed molecular descriptors for 125 organic chemicals, available [here](https://github.com/grisoniFr/bmf_qsar/blob/master/BMF_dataset.xlsx). 
+* **logBMF dataset**: containing experimental BMF values, SMILES strings, computed molecular descriptors, predicted/calculated values for 214 organic chemicals, available [here](https://github.com/grisoniFr/bmf_qsar/tree/master/data). 
 * **BMF_pred software**: to apply the models described in the original paper. Software freely available for non-commercial use at Alvascience [download link](http://www.alvascience.com/bmfpred/).
 
 For more details on the dataset see [Grisoni et al., 2018, *Chemosphere*](https://www.sciencedirect.com/science/article/pii/S0045653518310087).
